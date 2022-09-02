@@ -6,7 +6,7 @@
 
 ## Live Link
 
-[Shopify-Clone](https://paytm-ui-clone-dp.netlify.app/)
+[Shopify-Clone](https://shopify-ui-clone-dp1108.netlify.app/)
 
 ## Preview
 
