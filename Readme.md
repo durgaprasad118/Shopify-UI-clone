@@ -10,7 +10,7 @@
 
 ## Preview
 
-![Shopify](./Images/Paytm%20view.png)
+![Shopify](./Images/shopify%20UI.png)
 
 ## Project Description and Learnings
 
