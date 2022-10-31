@@ -6,7 +6,7 @@
 
 ## Live Link
 
-[Shopify-Clone](https://shopify-ui-clone-dp1108.netlify.app/)
+[Shopify-Clone](https://shopifyui-clone-dp1108.netlify.app/)
 
 ## Preview
 
